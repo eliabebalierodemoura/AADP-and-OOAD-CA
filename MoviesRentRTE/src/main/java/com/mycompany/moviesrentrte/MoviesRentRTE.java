@@ -89,8 +89,8 @@ public class MoviesRentRTE {
            System.out.println("-----------------------------//---------------------------------------");
             System.out.println("");
              
-        
-          removeRecord("Movies_file.csv","13",1, ",");
+        // In this part I select movie ID 3 to rent so it will be removed from my file
+          removeRecord("Movies_file.csv","3",1, ",");
         }
     
     
