@@ -1,0 +1,7 @@
+com\mycompany\moviesrentrte\FileInput.class
+com\mycompany\moviesrentrte\InputInterface.class
+com\mycompany\moviesrentrte\User.class
+com\mycompany\moviesrentrte\MoviesRentRTE.class
+com\mycompany\moviesrentrte\InputValidation.class
+com\mycompany\moviesrentrte\OutputInterface.class
+com\mycompany\moviesrentrte\ConsoleOutput.class
